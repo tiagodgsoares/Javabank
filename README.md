@@ -20,10 +20,8 @@ Establishes a one-to-many bi-directional relationship between Customer and Accou
 
 ## **Technologies:**
 
-- Maven for build and dependency management.
-- Spring Framework for web and transaction support.
-- Spring Boot for rapid development and efficient deployment.
-- Hibernate for object-relational mapping.
-- Log4j for logging.
+- Maven for build and dependency management;
+- Spring Framework for web and transaction support;
+- Spring Boot for rapid development and efficient deployment;
+- Hibernate for object-relational mapping;
 - MySQL databases for data storage.
-- Thymeleaf for web page rendering.
