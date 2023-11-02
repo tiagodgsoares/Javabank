@@ -1,6 +1,6 @@
 # Javabank - A Java Banking Application
 
-Javabank is a comprehensive Java banking application that offers a robust set of features for managing customers' financial accounts. With support for multiple customers, checking and savings accounts, and secure transaction handling, Javabank simplifies financial management for both individuals and developers seeking to integrate banking functionality into their applications.  
+Javabank is a comprehensive Java banking application that offers a robust set of features for managing customers' financial accounts. With support for multiple customers, checking and savings accounts, and secure transaction handling, Javabank ensures efficient and organized financial management.  
 Javabank adopts the MVC (Model-View-Controller) architecture with a service layer for abstracting the domain model to the controllers, ensuring a clean and organized separation of concerns in the application's design.
 
 ## **Key Features:**
